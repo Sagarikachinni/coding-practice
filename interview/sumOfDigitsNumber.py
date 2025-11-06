@@ -1,5 +1,5 @@
 
-'''#sum of digits of a number
+#sum of digits of a number
 def value():
     number=(input("enter a number:"))
     summ=0
@@ -7,4 +7,4 @@ def value():
         summ=summ+int(i)
     return summ
 result=value()
-print(result)'''
+print(result)
